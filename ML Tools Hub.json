@@ -1,7 +1,7 @@
 [
   {
   "visibility": "VISIBLE",
-  "min_version": "1.1",
+  "min_version": "1.2",
   "app_name": "ML Tools Hub",
   "dialog_title": "Versi terbaru telah tersedia",
   "dialog_message": "Silahkan klik update aplikasi",
