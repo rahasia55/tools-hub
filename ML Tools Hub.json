@@ -1,7 +1,7 @@
 [
   {
   "visibility": "VISIBLE",
-  "min_version": "3.9",
+  "min_version": "3.9.2",
   "app_name": "ML Tools Hub",
   "title": "UPDATE NOW VERSION",
   "dialog_title": "Versi terbaru telah tersedia",
