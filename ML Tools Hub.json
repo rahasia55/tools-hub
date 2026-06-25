@@ -1,6 +1,6 @@
 [
   {
-  "visibility": "VISIBLE",
+  "visibility": "INVISIBLE",
   "min_version": "1.3",
   "app_name": "ML Tools Hub",
   "dialog_title": "App under maintenance. Meanwhile, please use Skin Toolkit ML. Click update",
