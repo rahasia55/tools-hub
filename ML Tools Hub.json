@@ -1,7 +1,7 @@
 [
   {
   "visibility": "INVISIBLE",
- "upgrade_skin_enabled": true,
+ "upgrade_skin_enabled": false,
   "min_version": "1.3",
   "app_name": "ML Tools Hub",
   "dialog_title": "App under maintenance. Meanwhile, please use IQ Tools. Click update",
