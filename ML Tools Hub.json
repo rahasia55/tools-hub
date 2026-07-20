@@ -19,6 +19,44 @@
   "tiktok": "https://www.tiktok.com/@skin.tools.ml?_r=1&_t=ZS-97ijKCADkTR",
   "telegram": "https://youtube.com/playlist?list=PLakbGlyYdE8A&si=FgS9BgjcyM0F1Exe",
   "whatsapp": "https://chat.whatsapp.com/Lb7zECfKjsLDpze1hr3RPi",
-    "privacy_policy": "https://gs-tools.blogspot.com/p/privacy-policy.html?m=1"
+    "privacy_policy": "https://gs-tools.blogspot.com/p/privacy-policy.html?m=1",
+
+    "partner_apps_visible": true,
+    "partner_apps": [
+      {
+        "app_name": "IQ Tools",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/1000879913.png",
+        "link_update": "https://play.google.com/store/apps/details?id=iQ.Tools.MLInjector.SkinToolML"
+      },
+      {
+        "app_name": "ML GFX Tool",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/1000889827-picsay.png",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ML.GFX.Tool.UnlcokFPS.SkinToolMLInjector"
+      },
+      {
+        "app_name": "Skin Toolkit",
+        "icon_url": "https://play-lh.googleusercontent.com/fyuoL-N88hNz1L_AGvxZs-C4QKHgPb2CqrlQqWmTwCSsex-NvD_Pe_m80JocyoEMf709DVt0dq4ZesnoSp6HDTY=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=skin.tools.ml.injector.config.skin.ml.tool.gfx"
+      },
+      {
+        "app_name": "Ryumoto GFX",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/unnamed%20(3)-picsay.png",
+        "link_update": "https://play.google.com/store/apps/details?id=ag5.skintoolsmlvinztoolsmodskininjectorbangbang"
+      },
+      {
+        "app_name": "Prime Tools ML",
+        "icon_url": "https://lh3.googleusercontent.com/KspNcdRuGD1wlnmslsc3WEvtQja_dS3pEs8TNjYC9wvXR8Glg-svwKcqyTEYZPsqiQjjeyoBtiNrQOwehCiY7t3oyOPgLj0UsLZKmw=rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.prime.tools.ml"
+      },
+      {
+        "app_name": "ML Tools Hub",
+        "icon_url": "https://play-lh.googleusercontent.com/nX3PjrY7iiaukxVbXsgYemt51B9zYWdU0nNP-s7pHElS4eNUXrbTs5ILMK6JdETAR7wcPuXxp6uIr1M0kbhMyA=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub"
+      }
+      
+      
+    ]
+
+    
   }
 ]
