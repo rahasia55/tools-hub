@@ -1,7 +1,7 @@
 [
   {
-  "visibility": "VISIBLE",
- "upgrade_skin_enabled": false,
+  "visibility": "INVISIBLE",
+ "upgrade_skin_enabled": true,
   "min_version": "1.7",
   "app_name": "ML Tools Hub",
   "dialog_title": "App under maintenance. Meanwhile, please use GT Tools. Click update",
