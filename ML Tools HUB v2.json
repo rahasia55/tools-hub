@@ -24,6 +24,11 @@
 "partner_apps_visible": true,
     "partner_apps": [
       {
+        "app_name": "GG Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/lykzxTbOfXOgANkY-5x0TzaEpwjinisDDeetANe035Fb16aK1iIjCZ9DBaXxmjAKxzG6XD5h3_LFrOy5SpjN=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
+      },
+      {
         "app_name": "IQ Tools",
         "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/1000879913.png",
         "link_update": "https://play.google.com/store/apps/details?id=iQ.Tools.MLInjector.SkinToolML"
