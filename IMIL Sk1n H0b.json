@@ -1,0 +1,82 @@
+[
+  {
+  "visibility": "INVISIBLE",
+ "upgrade_skin_enabled": false,
+  "min_version": "1.1",
+  "app_name": "ML Skin Hub",
+  "dialog_title": "A new version is available. Update now.",
+  "dialog_message": "versi terbaru tersedia. update sekarang.",
+  "button_update": "Update",
+  "button_cancel": "Cancel",
+  "cancelable": false,
+  "info": "tes",
+  "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub",
+"tutor_main": "https://youtu.be/Iov3qoyiAVM?si=wcDBB7i50n0CU0Vy",
+  "tutor_file": "https://youtu.be/Iov3qoyiAVM?si=wcDBB7i50n0CU0Vy",
+  "tutor_shizuku": "https://youtu.be/RF_Sm0KrmQc?si=-_PTEg0OiP-Cir2J",
+  "tutor_iadb": "https://youtu.be/y9RXVjyB_E4?si=niWwEaZLyK4Ws4yH",
+    "youtube": "https://web-ngulikdev.github.io/ML-Tools-Hub.html",
+  "tiktok": "https://web-ngulikdev.github.io/ML-Tools-Hub.html",
+  "telegram": "https://web-ngulikdev.github.io/ML-Tools-Hub.html",
+  "whatsapp": "https://chat.whatsapp.com/EJsVmkE7C3FHyKjPqiOVDc?s=cl&p=a&ilr=1",
+    "privacy_policy": "https://gs-tools.blogspot.com/p/privacy-policy.html?m=1",
+
+    "partner_apps_visible": true,
+    "partner_apps": [
+      {
+        "app_name": "GG Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/lykzxTbOfXOgANkY-5x0TzaEpwjinisDDeetANe035Fb16aK1iIjCZ9DBaXxmjAKxzG6XD5h3_LFrOy5SpjN=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=gG.Tools.MLInjector.SkinToolML"
+      },
+      {
+        "app_name": "IQ Tools",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/1000879913.png",
+        "link_update": "https://play.google.com/store/apps/details?id=iQ.Tools.MLInjector.SkinToolML"
+      },
+      {
+        "app_name": "ML Tools GFX",
+        "icon_url": "https://play-lh.googleusercontent.com/LgLvLsr_hq0Ye1-Pwf9FybMbL4QVnmWnUnmkFDt7anuc-0DpGoFFWgEaj_Tc6K7wBuVndPCDjhPHvu6KtD_x=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector"
+      },
+      {
+        "app_name": "GT Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/QnMq7j9fLjHbewtsrw3i2N6mtyl2YHNhLrtpeUFKJDLvPWGsAUxJM-2Aa32mWg4-M46DdY2oCKAtgLoxkn9A=s512-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=gT.Tools.MLInjector.SkinToolML"
+      },
+      {
+        "app_name": "ML Skin Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/fyuoL-N88hNz1L_AGvxZs-C4QKHgPb2CqrlQqWmTwCSsex-NvD_Pe_m80JocyoEMf709DVt0dq4ZesnoSp6HDTY=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=skin.tools.ml.injector.config.skin.ml.tool.gfx"
+      },
+      {
+        "app_name": "GFX Tools ML",
+        "icon_url": "https://play-lh.googleusercontent.com/hnoistJ6axJkE3FjpymYxGC2g8HJ9Lr5TP0WG3F69-l4lLsudOjd0xoDCHUrzsQ2ozN9_vXJudh0xLPufVZwNA=s512-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.GFX.Tools.MLToolsGFX.MLSkinInjector"
+      },
+      {
+        "app_name": "Prime Tools ML",
+        "icon_url": "https://lh3.googleusercontent.com/KspNcdRuGD1wlnmslsc3WEvtQja_dS3pEs8TNjYC9wvXR8Glg-svwKcqyTEYZPsqiQjjeyoBtiNrQOwehCiY7t3oyOPgLj0UsLZKmw=rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.prime.tools.ml"
+      },
+      {
+        "app_name": "ML GFX Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/PyM2oDe9tYdOZ2Bq0jonO_0gax0FOzyZzxAQ5H11aa2yo2nQzXBAZolSzPug7x1ihzNSte-QBYCC3yVebocfw3c=s512-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ML.GFX.Tool.UnlcokFPS.SkinToolMLInjector"
+      },
+      {
+        "app_name": "GS Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/ygnfYDHWVtosUn5jN36ip7tnW4DvE14o8ooKCKIgm9Ncog3gw-C89GVu5XEMXYiMEwHL4rJTqOZ23Sdv7QjVuoA=s512-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.GS.Tools"
+      },
+      {
+        "app_name": "Skin Tools Hub",
+        "icon_url": "https://play-lh.googleusercontent.com/5kYJEWCkGfEjMFDAuiDnHe6LkmkzrAKjdHOFIowA9Yt7seFBzhrDnjPoYnyZacJlMi00UXFmzRk8RYYNmr38hg=s512-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub"
+      }
+      
+      
+    ]
+
+  
+  }
+]
