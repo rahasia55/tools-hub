@@ -1,18 +1,17 @@
 [
   {
   "visibility": "INVISIBLE",
- "upgrade_skin_enabled": true,
-  "min_version": "1.1",
-  "app_name": "ML Tools Hub",
-  "dialog_title": "App under maintenance. Meanwhile, please use IQ Tools. Click update",
-  "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi IQ Tools. klik update",
+    "upgrade_skin_enabled": true,
+  "min_version": "1.6",
+  "app_name": "ML Tools GFX",
+  "dialog_title": "latest version available, update now",
+  "dialog_message": "Versi terbaru tersedia, update sekarang",
   "button_update": "Update",
   "button_cancel": "Cancel",
   "cancelable": false,
   "info": "tes",
-  "link_update": "https://play.google.com/store/apps/details?id=iQ.Tools.MLInjector.SkinToolML",
-"tutor_main": "https://youtube.com/shorts/5F2OJY94GrE?si=cqcidgq2HhhBIJAx",
-  "tutor_main": "https://youtube.com/shorts/nCjCMuS6Xcs?si=UtEWWGokBbjBo8kb",
+  "link_update": "https://play.google.com/store/apps/details?id=com.ML.ToolsGFX.MLSkinInjector",
+"tutor_main": "https://youtube.com/shorts/nCjCMuS6Xcs?si=UtEWWGokBbjBo8kb",
   "tutor_file": "https://youtube.com/shorts/nCjCMuS6Xcs?si=UtEWWGokBbjBo8kb",
   "tutor_shizuku": "https://youtube.com/shorts/i4GQhS60A00?si=ey45zfpHGVv0LyGf",
   "tutor_iadb": "https://youtube.com/shorts/8ZSPmLh9rhI?si=cLEAHfKCMnzm5JzM",
@@ -20,8 +19,8 @@
   "tiktok": "https://www.tiktok.com/@app.injector.ml.skin.gfx?_r=1&_t=ZS-99dSmvCWmm8",
   "telegram": "https://youtube.com/playlist?list=PLCy5k943iTBY&si=-5QXcPM_LlHk0weB",
     "whatsapp": "https://chat.whatsapp.com/JeaFz7UEvbN2zYGatJfBtb",
-    "privacy_policy": "https://putmax.blogspot.com/p/privacy-policy-ml-tools-hub.html?m=1",
-
+  "privacy_policy": "https://putmax.blogspot.com/p/privacy-policy-2.html",
+     
 "partner_apps_visible": true,
     "partner_apps": [
       {
@@ -62,7 +61,6 @@
     
       
     ]
-
     
   }
 ]
