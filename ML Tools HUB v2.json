@@ -1,6 +1,6 @@
 [
   {
-  "visibility": "VISIBLE",
+  "visibility": "INVISIBLE",
     "upgrade_skin_enabled": true,
   "min_version": "1.2",
   "app_name": "ML Tools Hub",
