@@ -2,8 +2,8 @@
   {
   "visibility": "VISIBLE",
     "upgrade_skin_enabled": true,
-    "upgrade_skin_disabled_versions": ["1.5"],
-  "min_version": "1.5",
+    "upgrade_skin_disabled_versions": ["1.6"],
+  "min_version": "1.6",
   "app_name": "ML Tools Pro",
   "dialog_title": "aplikasi dalam perbaikan sementara gunakan apk ML Injector, klik update",
   "dialog_message": "application is under temporary maintenance use ML Injector apk, click update",
